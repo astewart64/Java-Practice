@@ -1,5 +1,5 @@
 
-public class loopy {
+public class ForLoops {
 
 	/**
 	 * Aven Stewart
