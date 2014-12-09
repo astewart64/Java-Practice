@@ -15,4 +15,4 @@ StringExercises.java - Displays a given word vertically, in reverse, swaps adjac
 
 IfElsePractice.java - Demonstrates basic usage of If/Else loops in a few different ways, including checking if weeather is right for a bike ride, the largest of three numbers, if a series of user-supplied numbers are the all unique, and calculates the distance between two given points.
 
-
+RockPaperScissors.java - Plays a series of games of Rock Paper Scissors with the computer.
