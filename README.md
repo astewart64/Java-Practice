@@ -4,6 +4,7 @@ Java-Practice
 Simple java scripts for my AP Computer Science demonstrating basic Java usage and syntax.
 
 I release this code into the public domain, for use by anyone and everyone for anything they please. See license for details.
+
 =============
 
 Included are the following scripts:
